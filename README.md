@@ -1,13 +1,11 @@
-[![license](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://github.com/dimmpixeye/InspectorFoldoutGroup/blob/master/LICENSE)
-
 # unity-simple-line-chart
 Easy to use, configurable line chart for Unity game engine.
 
 Tested with Unity 2022.2.17f1
 
-Licensed under MIT license. See LICENSE file in the project root folder.
+Licensed under MIT license
 
-![alt text](https://github.com/modernlearner/unity-simple-line-chart/blob/main/ss_01.jpg)
+![alt text](https://github.com/modernlearner/unity-simple-line-chart/blob/main/Documentation~/screenshot.jpg)
 
 
 Adding new record:

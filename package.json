@@ -1,0 +1,15 @@
+{
+  "name": "org.modernlearner.simple-line-chart",
+  "displayName": "Simple Line Chart",
+  "version": "1.0.0",
+  "description": "A simple line chart",
+  "unity": "2019.4",
+  "unityRelease": "26f1",
+  "license": "MIT",
+  "author": {
+    "name": "Modern Learner",
+    "url": "https://modernlearner.org"
+  },
+  "dependencies": {
+  }
+}
